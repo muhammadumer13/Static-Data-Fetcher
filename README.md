@@ -1,4 +1,5 @@
 <h1>CHECK THIS STATIC DATA FETCHER FORM THE ENROLLMENTS BELOW<h1>
+  DATA FETCHER LINK HERE :https://muhammadumer13.github.io/Static-Data-Fetcher/
 Student1539231
 Student1546344
 Student1545795

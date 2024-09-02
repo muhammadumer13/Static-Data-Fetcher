@@ -1,0 +1,492 @@
+{
+  "students": [
+    {
+      "serial_no": 1,
+      "enrollment_number": "Student1539231",
+      "name": "AHMED SUFIYAN ALAVI",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 2,
+      "enrollment_number": "Student1546344",
+      "name": "HAFSA ABDUL MAJEED",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 3,
+      "enrollment_number": "Student1545795",
+      "name": "INSHAL .",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 4,
+      "enrollment_number": "Student1542529",
+      "name": "KIRAN SEHAR",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 5,
+      "enrollment_number": "Student1531229",
+      "name": "MARYAM NAVAID",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 6,
+      "enrollment_number": "Student1545784",
+      "name": "MOIZ AHMED",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 7,
+      "enrollment_number": "Student1552572",
+      "name": "MUHAMMAD DANEYAL",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 8,
+      "enrollment_number": "Student1551247",
+      "name": "MUHAMMAD KHUBAIB",
+      "email_verified_status": "N",
+      "course": "HDSE",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 9,
+      "enrollment_number": "Student1538866",
+      "name": "MUHAMMAD TAHA",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 10,
+      "enrollment_number": "Student1544788",
+      "name": "MUHAMMAD USMAN",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 11,
+      "enrollment_number": "Student1543787",
+      "name": "MUHAMMAD AMAS KHAN",
+      "email_verified_status": "N",
+      "course": "ADSE-DIRECT-FROM-TERM 2",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 12,
+      "enrollment_number": "Student1542360",
+      "name": "MUHAMMAD HASHIR KHAN",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 13,
+      "enrollment_number": "Student1549078",
+      "name": "MUHAMMAD SHEHARYAR KHAN",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 14,
+      "enrollment_number": "Student1545775",
+      "name": "MUZAMIL .",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 15,
+      "enrollment_number": "Student1542903",
+      "name": "SYED MUHAMMAD SIRAJ UD DIN ALI",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 16,
+      "enrollment_number": "Student1545766",
+      "name": "SYEDA AYESHA BATOOL",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 17,
+      "enrollment_number": "Student1549524",
+      "name": "ZUNAIRAH KHAN",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2402G1 (7-9 TTS)"
+    },
+    {
+      "serial_no": 18,
+      "enrollment_number": "Student1551494",
+      "name": "ALI RAZA ASGHAR",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 19,
+      "enrollment_number": "Student1553688",
+      "name": "AYESHA .",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 20,
+      "enrollment_number": "Student1551232",
+      "name": "MOHAMMAD YASEEN ASLAM",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 21,
+      "enrollment_number": "Student1544793",
+      "name": "MUHAMMAD EZAAN",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 22,
+      "enrollment_number": "Student1551239",
+      "name": "MUHAMMAD HARMAIN",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 23,
+      "enrollment_number": "Student1556977",
+      "name": "MUHAMMAD SAMI",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 24,
+      "enrollment_number": "Student1552557",
+      "name": "MUHAMMAD BIN QASIM",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 25,
+      "enrollment_number": "Student1558647",
+      "name": "MUHAMMAD HUSSNAIN ZIA",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 26,
+      "enrollment_number": "Student1548699",
+      "name": "NEHA FATIMA",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 27,
+      "enrollment_number": "Student1558137",
+      "name": "SAFIA KHAN",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 28,
+      "enrollment_number": "Student1551781",
+      "name": "SUNDUS SIDDIQUE",
+      "email_verified_status": "N",
+      "course": "CPISM",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 29,
+      "enrollment_number": "Student1544786",
+      "name": "WAJAHAT AHMED KHAN",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 30,
+      "enrollment_number": "Student1553731",
+      "name": "ZUNAIRA MAQBOOL",
+      "email_verified_status": "N",
+      "course": "HDSE",
+      "batch": "2402F2 (5-7 TTS)"
+    },
+    {
+      "serial_no": 31,
+      "enrollment_number": "Student1566435",
+      "name": "ABDUL REHMAN",
+      "email_verified_status": "N",
+      "course": "CPISM",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 32,
+      "enrollment_number": "Student1567141",
+      "name": "AHSAN ALI",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 33,
+      "enrollment_number": "Student1567142",
+      "name": "DUAIMA MUHAMMAD JAWAID",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 34,
+      "enrollment_number": "Student1569059",
+      "name": "HUZAIFA KHURSHEED",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 35,
+      "enrollment_number": "Student1566422",
+      "name": "IDRAAK DANISH",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 36,
+      "enrollment_number": "Student1567133",
+      "name": "MALAIKA .",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 37,
+      "enrollment_number": "Student1565329",
+      "name": "MOHAMMAD AYAN",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 38,
+      "enrollment_number": "Student1568706",
+      "name": "MUHAMMAD WAJAHAT",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 39,
+      "enrollment_number": "Student1569613",
+      "name": "MUHAMMAD HASSAN NAVEED",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 40,
+      "enrollment_number": "Student1567184",
+      "name": "MUJTABA .",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 41,
+      "enrollment_number": "Student1565184",
+      "name": "NEHAL KHAN",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 42,
+      "enrollment_number": "Student1567172",
+      "name": "SEHBAN KHAN",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 43,
+      "enrollment_number": "Student1567151",
+      "name": "SYED MUHAMMAD AHSAN ZAIDI",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2405F1 (5-7 MWF)"
+    },
+    {
+      "serial_no": 44,
+      "enrollment_number": "Student1571333",
+      "name": "ABDUL REHMAN",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 45,
+      "enrollment_number": "Student1572027",
+      "name": "ABDULLAH ILYAS",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 46,
+      "enrollment_number": "Student1569537",
+      "name": "AYESHA RIAZ",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 47,
+      "enrollment_number": "Student1572028",
+      "name": "BUSHRA ANSARI",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 48,
+      "enrollment_number": "Student1567149",
+      "name": "HASEEB AHMAD",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 49,
+      "enrollment_number": "Student1569042",
+      "name": "KASHAN UL HAQ",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 50,
+      "enrollment_number": "Student1546831",
+      "name": "MIRZA ABDUL REHMAN BAIG",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 51,
+      "enrollment_number": "Student1572981",
+      "name": "MUHAMMAD SUBHAN",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 52,
+      "enrollment_number": "Student1572256",
+      "name": "MUHAMMAD UMER",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 53,
+      "enrollment_number": "Student1569381",
+      "name": "MUHAMMAD USAMA",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 54,
+      "enrollment_number": "Student1571375",
+      "name": "MUHAMMAD ABDULLAH NADEEM",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 55,
+      "enrollment_number": "Student1572030",
+      "name": "MUHAMMAD MOBEEN SIDDIQUI",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 56,
+      "enrollment_number": "Student1569076",
+      "name": "MUHAMMAD SHAHZAIB ABBASI",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 57,
+      "enrollment_number": "Student1572034",
+      "name": "MUNIS .",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 58,
+      "enrollment_number": "Student1572033",
+      "name": "NAJAF .",
+      "email_verified_status": "N",
+      "course": "DISM",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 59,
+      "enrollment_number": "Student1547563",
+      "name": "RAFAY AHMED",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 60,
+      "enrollment_number": "Student1569328",
+      "name": "SALMAN SHAIKH",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2406G1 (7-9 MWF)"
+    },
+    {
+      "serial_no": 61,
+      "enrollment_number": "Student1567197",
+      "name": "SYED MUHAMMAD IBRAHIM JAFRI",
+      "email_verified_status": "N",
+      "course": "ADSE",
+      "batch": "2406G1 (7-9 MWF)"
+    }
+  ]
+}

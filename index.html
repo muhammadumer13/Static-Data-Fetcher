@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Students Data Fetcher</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .container {
+            width: 100%;
+            height: 80vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .box {
+            background-color: rgb(121, 6, 54, 0.4);
+            border-radius: 6px;
+            padding: 10px;
+            width: 400px;
+            height: 150px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            align-items: center;
+            transition: all 0.5s ease-in-out;
+            animation: onbox 0.5s linear;
+        }
+
+        input {
+            padding: 15px;
+            border-radius: 5px;
+            border: none;
+        }
+
+        input:focus {
+            outline: none;
+        }
+
+        button {
+            padding: 15px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            background-color: rgb(121, 6, 54);
+            color: white;
+
+        }
+
+        #result{
+            margin-top: 25px;
+            border: 1px solid gray;
+            border-radius: 6px;
+            padding: 10px;
+            width: 400px;
+            height: 250px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            display: none;
+            animation: fun 0.5s ease-in-out;
+        }
+
+        p{
+            text-align: start;
+        }
+
+
+        @keyframes fun {
+            0%{
+                transform: translateY(700px);
+            }
+
+            50%{
+                transform: translateY(350px);
+            }
+
+            100%{
+                transform: translateY(0px);
+            }
+        }
+
+
+        @keyframes onbox {
+            0%{
+                
+                transform: translateY(-400px);
+            }
+
+            50%{
+                transform: translateY(-200px);
+            }
+
+            100%{
+                transform: translateY(0px);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box">
+            <h1>Students Data Fetcher</h1>
+            <div class="box2">
+                <input type="text" id="enrollment" placeholder="Enter Enrollment Number">
+                <button id="fetchbtn">Fetch Data</button>
+            </div>
+
+        </div>
+
+        <div id="result">
+
+        </div>
+
+    </div>
+
+    <script>
+        function fetchdata() {
+            var enrollment = document.getElementById('enrollment').value.trim()
+            if (!enrollment) {
+                alert('Please enter enrollment number')
+                return
+            }
+
+            fetch('data.json')
+                .then(function(response) {
+                    if (!response.ok) {
+                        alert("Error Getting Response, Try Again later")
+                    }
+                    return response.json()
+                })
+
+                .then(function (data) {
+                    var student = data.students.find(function (s) {
+                        return s.enrollment_number === enrollment;
+                    });
+
+                    var result = document.getElementById('result')
+
+                    if (student) {
+                        result.style.display = 'flex'
+                        result.innerHTML = `<h2>Student Details</h2>
+                                        <p><b>Sr No:</b>${student.serial_no}</p>
+                                        <p><b>Student Name:</b>${student.name}</p>
+                                        <p><b>Email Verified:</b>${student.email_verified_status}</p>
+                                        <p><b>Student Course:</b>${student.course}</p>
+                                        <p><b>Student Batch:</b>${student.batch}</p>`
+                        
+                    }
+                    else {
+                        result.innerHTML = '<h2>Student Not Found in Dataset</h2>'
+                        result.style.display = 'flex'
+                    }
+                })
+
+                .catch(function (error) {
+                    console.error('Error fetching data:', error)
+                    alert("Error Fetching data")
+                })
+        }
+
+        document.getElementById('fetchbtn').addEventListener("click", fetchdata)
+    </script>
+</body>
+
+</html>
